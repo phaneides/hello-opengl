@@ -1,0 +1,32 @@
+
+# === COMUN PARA TODO EL PROYECTO ===
+
+# Archivos temporales
+*~
+*.swp
+*.swo
+*.tmp
+.DS_Store
+
+# Archivos de log
+*.log
+
+# Archivos de compilación
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.lib
+*.pdb
+
+# Ejecutables generados
+hello_window/hello
+hello_triangle/hello
+hello_3d/hello3d
+
+# Carpeta glad (ya que parece copiada localmente por subproyecto)
+hello_window/glad/
+hello_triangle/glad/
+hello_3d/glad/
+
