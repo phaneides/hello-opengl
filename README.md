@@ -3,7 +3,7 @@
 A minimal and progressive collection of modern OpenGL examples written in C++.  
 Each folder explores a specific graphics concept: from creating a window to implementing a free camera and lighting.
 
-## Structure
+## Content 
 
 - `hello_window/` – OpenGL context and basic window (GLFW)
 - `hello_triangle/` – First triangle rendered with GLAD
