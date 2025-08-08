@@ -9,4 +9,4 @@ Each folder explores a specific graphics concept: from creating a window to impl
 - `hello_window/` – OpenGL context and basic window (GLFW)
 - `hello_triangle/` – First triangle rendered with GLAD
 - `hello_3d/` – 3D scene with free camera, user input, and basic lighting
-- `hello_3D_cartesin_space` 3D scene with camera motion and cartesian grid.
+- `hello_3D_cartesian_space` 3D scene with camera motion and cartesian grid.
