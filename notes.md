@@ -13,3 +13,6 @@ Graphics Pipeline: 3D coordinates (positions in space) -> colored pixels (repres
 
 
 ## Vertex Array Object 
+
+
+

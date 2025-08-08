@@ -1,1 +1,1 @@
-g++ main.cpp glad/src/gl.c -Iglad/include -lglfw -ldl -lGL -lglm -o hello3d
+g++ -std=c++17 main.cpp render/Grid.cpp scene/Input.cpp  -lglad -lglfw -ldl -lX11 -lpthread -lXrandr -lXi -o grid
